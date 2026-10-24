@@ -38,7 +38,7 @@
 <div>
 <h1 align="center"> 🔗 | Links Úteis </h1>
   <p align="center"><b>Dontpad da nossa turma:</b></p>
-  <p align="center"><a href="https://dontpad.com/1TDSPA-26" target="_blank">Acesso ao DontPad</a></p>
+  <p align="center"><a href="https://dontpad.com/curso-java-2026" target="_blank">Acesso ao DontPad</a></p>
   <br>
 </div>
 
